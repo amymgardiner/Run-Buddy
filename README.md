@@ -1,4 +1,4 @@
-# Run Buddy Inc.
+# Run Buddy, Inc
 
 ## Purpose
 
@@ -16,3 +16,5 @@ https://amymgardiner.github.io/runbuddy/
 ## Contribution
 
 Made with ❤️ by Amy Gardiner
+
+### ©️2019 Run Buddy, Inc
