@@ -11,7 +11,7 @@ A website that offers fitness training services.
 
 ## Website
 
-https://amymgardiner.github.io/runbuddy/
+https://amymgardiner.github.io/Run-Buddy/
 
 ## Contribution
 
